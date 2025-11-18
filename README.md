@@ -3,6 +3,9 @@
 BRUTE PRO is a Python-based interface that automates common Hydra brute-force 
 commands (SSH, FTP, RDP, SMB, HTTP, MySQL, ZIP cracking, and more).
 
+## Clone the repo
+git clone https://github.com/Baggyunittechs/BRUTE-PRO.git
+
 ## Requirements
 
 ### Linux
