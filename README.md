@@ -6,9 +6,11 @@ commands (SSH, FTP, RDP, SMB, HTTP, MySQL, ZIP cracking, and more).
 ## Requirements
 
 ### Linux
-sudo apt install hydra python3 python3-pip -y
+sudo apt install hydra python3 python3-pip -y 
+
 or
-sudo dnf install hydra python3 python3-pip -y
+
+sudo dnf install hydra python3 python3-pip -y 
 
 ### Windows (via WSL)
 wsl --install -d kali-linux
