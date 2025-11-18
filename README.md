@@ -19,5 +19,8 @@ sudo apt install hydra python3 python3-pip -y
 ### Python Dependencies
 pip install -r requirements.txt
 
+## Open the directory
+cd BRUTE-PRO
+
 ## Run
 python3 brutepro.py
